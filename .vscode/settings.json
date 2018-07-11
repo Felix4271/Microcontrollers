@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "esp_spi_flash.h": "c"
+    },
+    "files.autoSave": "onFocusChange"
+}
